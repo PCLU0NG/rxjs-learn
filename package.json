@@ -1,0 +1,8 @@
+{
+  "name": "9frz2p--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "rxjs": "7.8.1"
+  }
+}
